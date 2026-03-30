@@ -1,0 +1,38 @@
+# Build output
+out/
+build/
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.obj
+*.o
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+_deps/
+
+# vcpkg installed packages (재빌드 가능)
+vcpkg_installed/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstash
+*.VC.db
+*.VC.opendb
+
+# Qt MOC/UIC/RCC generated
+*_autogen/
+mocs_compilation.cpp
+qrc_*.cpp
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini

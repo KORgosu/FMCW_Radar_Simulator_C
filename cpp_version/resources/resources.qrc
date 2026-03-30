@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/style">
+        <file alias="dark_radar.qss">style/dark_radar.qss</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="sejong_logo.png">images/sejong_logo.png</file>
+    </qresource>
+    <qresource prefix="/html">
+        <file alias="fmcw_radar_architecture_v2.html">../../fmcw_radar_architecture_v2.html</file>
+    </qresource>
+</RCC>
